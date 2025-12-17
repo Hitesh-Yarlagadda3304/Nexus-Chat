@@ -1,68 +1,66 @@
-# Welcome to your Lovable project
+# 💬 Nexus Chat
 
-## Project info
+Nexus Chat is a modern, real-time chat application built with React and TypeScript.  
+It provides a fast, responsive, and clean user experience using modern frontend tooling and UI components.
 
-**URL**: https://lovable.dev/projects/c954beb5-0f43-4cc0-8163-83a5267f324d
+🚀 Built using **Lovable**, with seamless local and cloud-based development support.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+- 💬 Real-time chat interface
+- ⚡ Fast development with Vite
+- 🎨 Modern UI using shadcn-ui & Tailwind CSS
+- 🧩 Component-based architecture with React
+- 🛠️ Type-safe codebase using TypeScript
+- 🌐 Easy deployment & custom domain support via Lovable
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c954beb5-0f43-4cc0-8163-83a5267f324d) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+- **Vite**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn-ui**
+- **Node.js & npm**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧑‍💻 Development Options
 
-Follow these steps:
+You can edit and develop Nexus Chat in multiple ways:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### 1️⃣ Use Lovable (Recommended)
+
+- Open the project in Lovable
+- Make changes by prompting or editing
+- All updates are automatically committed to the repository
+
+🔗 Project URL:  
+https://lovable.dev/projects/c954beb5-0f43-4cc0-8163-83a5267f324d
+
+---
+
+### 2️⃣ Run Locally (Your Own IDE)
+
+#### Prerequisites
+- Node.js (recommended via `nvm`)
+- npm
+
+#### Steps
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate into the project
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
